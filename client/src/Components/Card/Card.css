@@ -1,0 +1,21 @@
+a{
+    text-decoration: none;
+    color: #804000;
+}
+
+.container-card{
+    background-color: #f3deba;
+    border-radius: 5%;
+    padding-bottom: 1px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.card-img{
+    border-radius: 5%;
+    height: 35vh;
+}
+
+.card-temperaments{
+    margin: 0%;
+}

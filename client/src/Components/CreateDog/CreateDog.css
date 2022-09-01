@@ -1,0 +1,28 @@
+.form-name, .form-height, .form-weight, .form-life-span, .create-button, .back-home-button{
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.form-text{
+    margin-top: 4%;
+    margin-bottom: 4%;
+    color: #804000;
+}
+
+.temp-selected{
+    color: #EED09D;
+    display: flex;
+    justify-content: center;
+    margin-left: 1.4%;
+    background-color: #804000;
+    padding: 1%;
+    border-radius: 5%;
+}
+.temp-selector{
+    margin-bottom: 1%;
+}
+
+.container-temps{
+    display: flex;
+    justify-content: center;
+}

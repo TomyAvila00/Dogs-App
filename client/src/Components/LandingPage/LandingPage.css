@@ -1,0 +1,15 @@
+body{
+    background-color: #EED09D;
+}
+
+.landing-title{
+    margin-top: 38vh;
+    color: #804000;
+}
+
+.landing-button{
+    border-radius: 5%;
+    background-color: #e7d4b3;
+    color: #804000;
+    cursor: pointer;
+}

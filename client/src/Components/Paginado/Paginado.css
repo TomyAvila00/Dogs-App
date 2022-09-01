@@ -1,0 +1,13 @@
+.paginado{
+    display: flex;
+    justify-content: center;
+}
+
+ .paginado-li{
+    margin-left: 0.25%;
+    margin-right: 0.25%;
+}
+
+.paginado-button{
+    cursor: pointer;
+}

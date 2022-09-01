@@ -1,0 +1,29 @@
+*{
+    list-style: none;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.container-navbar{
+    background-color: #815324;
+    padding: 1vh;
+}
+
+.create-link{
+    background-color: #EED09D;
+}
+
+.cards-container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(4, auto);
+    justify-content: space-between;
+    gap: 3%;
+}
+
+.paginado-bot{
+    margin-top: 15%;
+}
