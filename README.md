@@ -1,6 +1,5 @@
 ![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
 
-DEPLOY: https://pi-dogs-pvrdno1a7-tomyavila00.vercel.app/
 
 # Individual Project - Henry Dogs
 
